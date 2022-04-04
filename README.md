@@ -15,4 +15,5 @@ Per scelta, il counter non può assumere valori negativi, fermandosi a 0.
 - CSS
 - JavaScript Vanilla
 
-[Link al sito per vederlo in azione](https://s2i-thecounter.netlify.app/)
+## Link
+[Provalo su Netifly](https://s2i-thecounter.netlify.app/)
