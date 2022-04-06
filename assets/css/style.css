@@ -16,7 +16,7 @@ body {
     margin: 0;
     padding: 0;
     min-height: 100vh;
-    font-family: mono;
+    font-family: monospace;
     background-color: var(--gray);
     display: flex;
     align-items: center;
