@@ -53,7 +53,7 @@ h1 {
 }
 
 #root button {
-    font-family: mono;
+    font-family: monospace;
     width: 100%;
     display: flex;
     align-items: center;
